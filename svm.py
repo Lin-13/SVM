@@ -1,4 +1,5 @@
 from sklearn import svm
+from sklearn import linear_model
 import numpy as np
 import pylab as pl
 x=np.array([[2,0],[1,1],[2,3]])
