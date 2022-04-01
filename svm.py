@@ -11,3 +11,4 @@ print(clf1.support_vectors_)
 print(clf1.support_)
 print(clf1.n_support_)
 print(clf1.predict(np.array([[2,0],[10,10],[0,0]])))
+##
